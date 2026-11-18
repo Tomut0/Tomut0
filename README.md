@@ -51,3 +51,5 @@ I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which
 ## Мой свод законов
 
 [«Путь Тестивуса»](https://www.albertosavoia.com/uploads/1/4/0/9/14099067/thewayoftestivus.pdf) Альберто Савойи · [Закон Хайрама](https://www.hyrumslaw.com/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-3D5D4A?style=flat-square&logo=telegram&logoColor=E3F1E5)](https://t.me/Minat_0)
