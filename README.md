@@ -22,6 +22,8 @@ I develop a game hosting platform with its own server infrastructure in Russia a
 
 I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which lets server admins use SimpleClans from Denizen scripts.
 
+**On testing and APIs** · [The Way of Testivus](https://www.albertosavoia.com/uploads/1/4/0/9/14099067/thewayoftestivus.pdf) by Alberto Savoia · [Hyrum’s Law](https://www.hyrumslaw.com/)
+
 ---
 
 # Linux-инфраструктура и бэкенд-разработка
@@ -43,3 +45,5 @@ I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which
 **[SimpleClansStats](https://github.com/Tomut0/SimpleClansStats)** · Моя панель на Go и SvelteKit для просмотра данных о кланах, игроках и событиях на нескольких серверах Minecraft.
 
 Также разработал [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), который позволяет использовать SimpleClans в скриптах Denizen.
+
+**О тестировании и API** · [«Путь Тестивуса»](https://www.albertosavoia.com/uploads/1/4/0/9/14099067/thewayoftestivus.pdf) Альберто Савойи · [Закон Хайрама](https://www.hyrumslaw.com/)
