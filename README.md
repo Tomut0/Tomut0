@@ -6,7 +6,7 @@ I’m Evgeny, a systems administrator and backend developer. I work on game host
 
 ## Currently building [mikasa.host](https://mikasa.host/)
 
-I develop a game hosting platform with its own server infrastructure in Russia and abroad. It hosts Minecraft, SCP: Secret Laboratory, and other multiplayer games.
+I develop a game hosting platform with its own server infrastructure in Russia and abroad. It hosts Minecraft, Garry's Mod, and other multiplayer games.
 
 - **Infrastructure.** I administer physical Linux servers, configure MikroTik networks, automate server setup with Ansible, and monitor services with Zabbix and Uptime Kuma.
 - **Backend.** I designed the modular payment system that handles multiple providers. I also build external API integrations, automate service provisioning, and run background jobs through Laravel Queue.
@@ -18,7 +18,7 @@ I develop a game hosting platform with its own server infrastructure in Russia a
 
 **[SimpleClansStats](https://github.com/Tomut0/SimpleClansStats)** · My Go and SvelteKit dashboard for tracking clans, players, and activity across Minecraft servers.
 
-I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which lets server admins use SimpleClans from Denizen scripts, and [added disk I/O metrics to Omni](https://github.com/ToxicDuke/Omni/pull/1).
+I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which lets server admins use SimpleClans from Denizen scripts.
 
 ---
 
@@ -28,7 +28,7 @@ I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which
 
 ## Сейчас развиваю [mikasa.host](https://mikasa.host/)
 
-Это платформа игрового хостинга с собственной серверной инфраструктурой в России и за рубежом. На ней можно запустить серверы Minecraft, SCP: Secret Laboratory и других многопользовательских игр.
+Это платформа игрового хостинга с собственной серверной инфраструктурой в России и за рубежом. На ней можно запустить серверы Minecraft, Garry's Mod и других многопользовательских игр.
 
 - **Инфраструктура.** Администрирую физические Linux-серверы, настраиваю сети на MikroTik, автоматизирую конфигурацию через Ansible и слежу за работой сервисов в Zabbix и Uptime Kuma.
 - **Бэкенд.** Спроектировал модульную платёжную систему с несколькими провайдерами. Интегрирую внешние API, автоматизирую выдачу услуг и запускаю фоновые задачи через Laravel Queue.
@@ -40,4 +40,4 @@ I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which
 
 **[SimpleClansStats](https://github.com/Tomut0/SimpleClansStats)** · Моя панель на Go и SvelteKit для просмотра данных о кланах, игроках и событиях на нескольких серверах Minecraft.
 
-Также разработал [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), который позволяет использовать SimpleClans в скриптах Denizen, и [добавил в Omni метрики дискового ввода-вывода](https://github.com/ToxicDuke/Omni/pull/1).
+Также разработал [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), который позволяет использовать SimpleClans в скриптах Denizen.
