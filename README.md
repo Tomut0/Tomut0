@@ -1,4 +1,4 @@
-# Hi, I’m Minat0_ 🍵
+# Hi, I’m Evgeny (Minat0_) 🍵
 
 I build Minecraft server plugins and web apps.
 
@@ -7,7 +7,7 @@ I build Minecraft server plugins and web apps.
 
 ---
 
-## Привет, я Minat0_ 🍵
+## Привет, я Евгений (Minat0_) 🍵
 
 Разрабатываю плагины для серверов Minecraft и веб-приложения.
 
