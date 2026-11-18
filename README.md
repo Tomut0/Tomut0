@@ -4,7 +4,7 @@
 
 # Linux infrastructure & backend development
 
-I’m Evgeny, a systems administrator and backend developer. I work on game hosting, from the physical servers and network to the platform customers use to launch and manage their servers.
+I’m Evgeny. I manage servers and networks for a game hosting platform and develop its backend.
 
 ## Currently building [mikasa.host](https://mikasa.host/)
 
@@ -26,7 +26,7 @@ I also built [SCDenizenBridge](https://github.com/Tomut0/SCDenizenBridge), which
 
 # Linux-инфраструктура и бэкенд-разработка
 
-Я Евгений, системный администратор и бэкенд-разработчик. Работаю над игровым хостингом, от физических серверов и сети до платформы, через которую пользователи запускают свои серверы и управляют ими.
+Я Евгений. В игровом хостинге отвечаю за серверы, сети и разработку бэкенда.
 
 ## Сейчас развиваю [mikasa.host](https://mikasa.host/)
 
