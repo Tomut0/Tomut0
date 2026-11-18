@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Minat0_ 🍵
 
-<!--
-**Tomut0/Tomut0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Minecraft server plugins and web apps.
 
-Here are some ideas to get you started:
+- [SimpleClans](https://github.com/RoinujNosde/SimpleClans) — I’m a collaborator on this Minecraft clan plugin. [600+ servers · 1,000+ players](https://bstats.org/plugin/bukkit/SimpleClans/7131).
+- [SimpleClansStats](https://github.com/Tomut0/SimpleClansStats) — a web dashboard for Minecraft clan statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Привет, я Minat0_ 🍵
+
+Разрабатываю плагины для серверов Minecraft и веб-приложения.
+
+- [SimpleClans](https://github.com/RoinujNosde/SimpleClans) — участвую в разработке плагина для кланов в Minecraft. [600+ серверов · 1 000+ игроков](https://bstats.org/plugin/bukkit/SimpleClans/7131).
+- [SimpleClansStats](https://github.com/Tomut0/SimpleClansStats) — веб-панель со статистикой кланов Minecraft.
